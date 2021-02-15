@@ -1,0 +1,7 @@
+@import "_variables.scss";
+@import "../components/organisms/Menu/style";
+
+body {
+    margin: 0;
+    background-color: map-get($grey, dark);
+}
