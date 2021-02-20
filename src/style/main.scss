@@ -1,5 +1,7 @@
 @import "_variables.scss";
-@import "../components/organisms/Menu/style";
+@import "../components/organisms/Menu/_style.scss";
+@import "../components/molecules/List/_style.scss";
+@import "../components/atoms/Text/_style.scss";
 
 body {
     margin: 0;

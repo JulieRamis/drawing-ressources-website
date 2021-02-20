@@ -16,21 +16,38 @@ const options = [
 ]
 
 const MyComponent = () => (
-  
+  <div className="zone-list">
+   
   <Select onChange={() => console.log(options)} 
     options={options}
     defaultValue= {[options[5]]}
+    styles={{
+      control: (provided, state) => ({
+        ...provided,
+        cursor: 'pointer',
+      }),
+      menu: (provided, state) => ({
+        ...provided,
+        cursor: 'pointer',
+      }),
+      option: (provided, state) => ({
+         ...provided,
+         borderRadius: 10,
+         cursor: 'pointer'
+      })
+    }}
     theme={(theme) => ({
       ...theme,
-      borderRadius: 0,
+      borderRadius: 10,
       colors: {
       ...theme.colors,
         text: 'orangered',
-        primary25: 'hotpink',
-        primary: '#a4243b',
+        primary25: '#9a031e57',
+        primary: '#9a031e',
       },
     })}
   />
+  </div>
 )
 
 export default MyComponent

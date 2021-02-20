@@ -1,8 +1,9 @@
 import React, { useState } from "react"
 
-import Menu from "../components/organisms/Menu"
-
 import "../style/main.scss"
+
+import Menu from "../components/organisms/Menu"
+import TextList from "../components/atoms/Text"
 import MyComponent from "../components/molecules/List"
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
   return (
     <>
     <Menu/>
+    <TextList />
     <MyComponent/>
       <p>A</p>
     </>
