@@ -4,7 +4,9 @@ import "../style/main.scss"
 
 import Menu from "../components/organisms/Menu"
 import TextList from "../components/atoms/Text"
+import options from "../components/molecules/options"
 import MyComponent from "../components/molecules/List"
+
 
 const App = () => {
 
@@ -12,8 +14,7 @@ const App = () => {
     <>
     <Menu/>
     <TextList />
-    <MyComponent/>
-      <p>A</p>
+    <MyComponent options={options}/>
     </>
   )
 
