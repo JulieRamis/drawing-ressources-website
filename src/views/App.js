@@ -15,6 +15,7 @@ const App = () => {
     <Menu/>
     <TextList />
     <MyComponent options={options}/>
+    
     </>
   )
 
