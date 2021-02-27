@@ -4,7 +4,7 @@ import "../style/main.scss"
 
 import Menu from "../components/organisms/Menu"
 import TextList from "../components/atoms/Text"
-import options from "../components/molecules/options"
+import options from "../components/molecules/Options"
 import MyComponent from "../components/molecules/List"
 
 

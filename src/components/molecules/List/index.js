@@ -52,7 +52,8 @@ const MyComponent = (props) => {
     setText(selectedOption)
   };
     return (
-      <div className="zone-list">
+      <article>
+      <section className="zone-list">
       <Select
         options={props.options}
         onChange={onChange}
@@ -84,14 +85,13 @@ const MyComponent = (props) => {
           },
         })}
         
-      />
-      
-      <div>
-        <button onClick={() => handleClick()}> Clear Selection </button>
+      /> 
+      <button onClick={() => handleClick()}> Clear Selection </button>
+      </section>
+
         {div}
-      </div>
-      
-      </div>
+        
+      </article>
     );
 };
 export default MyComponent;
