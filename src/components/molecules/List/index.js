@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Select from 'react-select'
 
 import Anatomy from "../../organisms/Content/Anatomy"
-import Cloth from "../../organisms/Content/Cloth"
+import Clothes from "../../organisms/Content/Clothes"
 import Colorimetry from "../../organisms/Content/Colorimetry"
 import Creature from "../../organisms/Content/Creature"
 import Expressions from "../../organisms/Content/Expressions"
@@ -23,7 +23,7 @@ const MyComponent = (props) => {
         case 'anatomy':
           {setDiv(<div><Anatomy /></div>)};break;
         case 'cloth':
-          {setDiv(<div><Cloth /></div>)};break;
+          {setDiv(<div><Clothes /></div>)};break;
           case 'colorimetry':
           {setDiv(<div><Colorimetry /></div>)};break;
         case 'creature':
@@ -90,7 +90,7 @@ const MyComponent = (props) => {
       </section>
 
         {div}
-        
+
       </article>
     );
 };
