@@ -11,7 +11,7 @@ const Perspective = () => (
   <div className="gallery">
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Photos perspective corps</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/coupes-de-cheveux-femmes/">
+      <a href="https://www.pinterest.fr/julierda1/coupes-de-cheveux-femmes/">
         <div className="border">
         <img src="img/perspective/perspective-p-c-pinterest.png" alt="miniature-haircut-w-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -21,7 +21,7 @@ const Perspective = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Photos perspective paysages</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/coupes-de-cheveux-hommes/">
+      <a href="https://www.pinterest.fr/julierda1/coupes-de-cheveux-hommes/">
         <div className="border">
         <img src="img/perspective/perspective-p-p-pinterest.png" alt="miniature-haircut-m-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -32,7 +32,7 @@ const Perspective = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Dessins perspective corps</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/cheveux-dessins-femmes/">
+      <a href="https://www.pinterest.fr/julierda1/cheveux-dessins-femmes/">
         <div className="border">
         <img src="img/perspective/perspective-d-c-pinterest.png" alt="miniature-haircut-draw-w-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -42,7 +42,7 @@ const Perspective = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Dessins perspective paysage</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/cheveux-dessins-hommes/">
+      <a href="https://www.pinterest.fr/julierda1/cheveux-dessins-hommes/">
         <div className="border">
         <img src="img/perspective/perspective-d-p-pinterest.png" alt="miniature-haircut-draw-m-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>

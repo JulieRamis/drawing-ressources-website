@@ -11,7 +11,7 @@ const Haircut = () => (
   <div className="gallery">
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Photos cheveux femmes</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/coupes-de-cheveux-femmes/">
+      <a href="https://www.pinterest.fr/julierda1/coupes-de-cheveux-femmes/">
         <div className="border">
         <img src="img/haircut/hair-p-w-pinterest.png" alt="miniature-haircut-w-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -21,7 +21,7 @@ const Haircut = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Photos cheveux hommes</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/coupes-de-cheveux-hommes/">
+      <a href="https://www.pinterest.fr/julierda1/coupes-de-cheveux-hommes/">
         <div className="border">
         <img src="img/haircut/hair-p-m-pinterest.png" alt="miniature-haircut-m-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -32,7 +32,7 @@ const Haircut = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Dessins cheveux femmes</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/cheveux-dessins-femmes/">
+      <a href="https://www.pinterest.fr/julierda1/cheveux-dessins-femmes/">
         <div className="border">
         <img src="img/haircut/hair-d-w-pinterest.png" alt="miniature-haircut-draw-w-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
@@ -42,7 +42,7 @@ const Haircut = () => (
 
     <figure className="figure-portfolio">
       <figcaption className="figcaption-gallery"><h3>Dessins cheveux hommes</h3></figcaption>
-      <a href="https://www.pinterest.fr/julieramis1/cheveux-dessins-hommes/">
+      <a href="https://www.pinterest.fr/julierda1/cheveux-dessins-hommes/">
         <div className="border">
         <img src="img/haircut/hair-d-m-pinterest.png" alt="miniature-haircut-draw-m-pinterest" className="img-gallery" />
         <span className="span1"></span><span className="span2"></span>
