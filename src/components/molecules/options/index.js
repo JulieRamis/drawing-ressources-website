@@ -3,7 +3,7 @@ const options = [
   { value: 'cloth', label: 'Vêtements' },
   { value: 'haircut', label: 'Coupe de cheveux' },
   { value: 'anatomy', label: 'Anatomie' },
-  { value: 'expressions', label: 'Expressions' },
+  { value: 'faces', label: 'Visages' },
   { value: 'creature', label: 'Créatures, Animaux' },
   { value: 'sets', label: 'Décors' },
   { value: 'materials', label: 'Matériaux' },
