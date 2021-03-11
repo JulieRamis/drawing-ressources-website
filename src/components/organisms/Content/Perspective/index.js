@@ -57,6 +57,7 @@ const Perspective = () => (
   <iframe width="410" height="229" src="https://www.youtube.com/embed/f6112Frz13A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
   <iframe width="410" height="229" src="https://www.youtube.com/embed/Vl9NWhjVSy0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe width="410" height="229" src="https://www.youtube.com/embed/b7fQ3627rvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  <iframe width="410" height="229" src="https://www.youtube.com/embed/6jTbcLimnko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </article>
 
