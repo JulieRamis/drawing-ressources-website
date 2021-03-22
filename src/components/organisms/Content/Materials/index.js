@@ -112,7 +112,7 @@ const Materials = () => (
             </a>
 
           </figure>
-
+          
           <figure className="figure-portfolio">
             <figcaption className="figcaption-gallery"><h3>Dessiner du tissu</h3></figcaption>
             <a href="https://fr.accentsconagua.com/articles/design/how-to-draw-fabric-silk-and-wool.html">
